@@ -5,7 +5,8 @@ fullstack developer focused in javascript
 ## about the projects on my github
 
 ```
--web: javascript + html + css projects
+-web: html + css projects
+-js: javascript projects
 -react: reacts.js projects 
 -angular: angular.js projects
 -api: php projects
