@@ -2,7 +2,7 @@
 
 fullstack developer focused in javascript
 
-about the projects on my github
+## about the projects on my github
 
 ```
 -web: javascript + html + css projects
