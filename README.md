@@ -1,5 +1,5 @@
 ### hello
-<img align="center"height="60" width="80" src="https://www.flaticon.com/svg/vstatic/svg/3612/3612518.svg?token=exp=1616425475~hmac=f769470d948fb8ec8bfb0c9ed1a92d92">
+<img align="right" width="400" height="400" src="https://www.flaticon.com/svg/vstatic/svg/3612/3612518.svg?token=exp=1616425475~hmac=f769470d948fb8ec8bfb0c9ed1a92d92">
 #### full stack developer | 25y
 
 <a href = "mailto: contato@kreathor.com.br"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
