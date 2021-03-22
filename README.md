@@ -6,5 +6,5 @@ fullstack developer focused in javascript
 
 ## contact me 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/beatriznorbiato/)](link_do_seu_perfil_no_linkedin)
-[![Gmail Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:seu_email)](mailto:bnorbiatos@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bnorbiatos@gmail.com)](mailto:bnorbiatos@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriznorbiato/)](https://www.linkedin.com/in/beatriznorbiato/)
