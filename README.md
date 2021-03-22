@@ -1,7 +1,7 @@
 ### hello and welcome!
 ## i'm beatriz
 full stack developer focused in javascript
-<img align="center" width="80" height="80" src="https://www.flaticon.com/svg/vstatic/svg/3612/3612518.svg?token=exp=1616425475~hmac=f769470d948fb8ec8bfb0c9ed1a92d92">
+<img align="right" width="80" height="80" src="https://www.flaticon.com/svg/vstatic/svg/3612/3612518.svg?token=exp=1616425475~hmac=f769470d948fb8ec8bfb0c9ed1a92d92">
 
 
 ## about me 
