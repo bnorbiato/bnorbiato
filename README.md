@@ -1,6 +1,6 @@
 ## hello!
 
-fullstack developer focused in javascript
+software developer
 
 ## about the projects on my github
 
